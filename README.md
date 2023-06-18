@@ -1,1 +1,1 @@
-# NOW HOSTED AT [https://github.com/seigfrieds/radio-madness](https://github.com/seigfrieds/radio-madness)
+# NOW HOSTED AT [https://github.com/seigfrieds/madnessify](https://github.com/seigfrieds/madnessify)
